@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+header {
+    color: rgb(255, 0, 0,0.6);
+    text-align: center;
+    text-decoration:underline rgb(52, 66, 66);
+}
+
+.bold {
+    color: blue;
+}
+
+.details {
+    color: cyan;
+}
+
+#info {
+    background-color: cyan;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: cyan;
+}
