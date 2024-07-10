@@ -1,0 +1,31 @@
+h1 {
+    color:purple;
+}
+
+p {
+    color: red;
+}
+
+button {
+    background-color: rgb(84, 218, 84);
+    color: black;
+}
+
+body {
+    background-color: cyan;
+}
+
+#portfolio {
+    color: crimson;
+}
+
+#name {
+    color:rebeccapurple;
+}
+.FirstClass {
+    color: magenta;
+}
+
+/* * {
+    color: blue;
+} */
